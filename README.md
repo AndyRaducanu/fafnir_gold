@@ -1,1 +1,1 @@
-# fafnir_gold
+# fafnir
